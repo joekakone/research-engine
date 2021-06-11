@@ -1,6 +1,6 @@
 # Intelligent Research Engine
+![](screenshot.jpg)
 Moteur de recherche intelligent
-![screenshot.jpg]
 
 ## Description
 On June 2019, Elom and I worked on an intelligent patrimoine search using picture...
